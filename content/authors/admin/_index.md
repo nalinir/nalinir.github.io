@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 吳健雄
+title: Nalini Ramanathan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: nuh-lih-nee rAH-mAH-nAH-thun
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nalini
+last_name: Ramanathan
 
 # Pronouns (optional)
 pronouns: she/her
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,71 +23,61 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Masters Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Neuroinformatics Lab
+    url: https://www.neuroinformaticslab.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nar8991@nyu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/nalinir
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/nalini-r-7a3410b9/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience and Cognitive Science
+  - Efficient ML/AI
+  - Spiking Neural Networks
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MS Computer Science
+    institution: NYU
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.00/4.00
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Neuroinformatics
+      - Optimization and Computational Linear Algebra
+      - Discrete Math
+      - Algorithms and Data Structures
+      - Computer Vision
+      - Machine Learning
+      - Software Engineering
+  - area: BA Economics
+    institution: Dartmouth College
+    date_start: 2015-09-02
+    date_end: 2019-06-07
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.87/4.00
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Introduction to Computational Neuroscience
+      - Econometrics
+      - Linear Algebra
+      - Advanced Topics in Microeconomics/Macroeconomics/Econometrics
 work:
-  - position: Director of Cloud Infrastructure
+  - position: NYU Neuroinformatics Lab
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -139,17 +129,17 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      # - name: Photography
+      #   description: ''
+      #   percent: 80
+      #   icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: French
+    percent: 50
+  - name: Tamil
     percent: 25
 
 # Awards.
@@ -157,33 +147,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: High Honors in Economics
+    url: ''
+    date: '2019-06-02'
+    awarder: Dartmouth College
+    icon: ''
+    summary: Voted on by department on the basis of outstanding work|
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Master's student at NYU studying biologically inspired hybrid spiking-nonspiking neural networks. Prior to this, I worked as a strategy consultant and then data scientist at Altman Solon working on a Higher Order Hidden Markov Model application and later several avenues (improving training/fine-tuning of our Object Detection and Classification models, implementing a Segmentation model, geospatial data refinements) to improve our Computer Vision pole detection models.
