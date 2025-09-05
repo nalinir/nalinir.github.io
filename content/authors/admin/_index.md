@@ -157,4 +157,4 @@ awards:
 
 ## About Me
 
-I am a Master's student at NYU studying biologically inspired hybrid spiking-nonspiking neural networks. Prior to this, I worked as a strategy consultant and then data scientist at Altman Solon working on a Higher Order Hidden Markov Model application and later several avenues (improving training/fine-tuning of our Object Detection and Classification models, implementing a Segmentation model, geospatial data refinements) to improve our Computer Vision pole detection models.
+I am a Master's student at NYU studying biologically inspired hybrid spiking-nonspiking neural networks. Prior to this, I worked as a strategy consultant and then data scientist at Altman Solon. At Altman, I worked on a Higher Order Hidden Markov Model application and later on several avenues (improving training/fine-tuning of our Object Detection and Classification models, implementing a Segmentation model, geospatial data refinements) to improve our Computer Vision pole detection models.
